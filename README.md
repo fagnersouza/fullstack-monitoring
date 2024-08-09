@@ -67,21 +67,24 @@ A avaliação do desafio será baseada nos seguintes critérios:
 ### **Júnior**
 Esperamos que os candidatos de nível Júnior demonstrem um entendimento básico dos conceitos de desenvolvimento web Full Stack. O foco principal deve ser na implementação das funcionalidades essenciais, seguindo as melhores práticas básicas de codificação. O candidato deve:
 
+- Demonstrar familiaridade básica com ferramentas de controle de versão (ex: Git), incluindo como criar branches, commits e pull requests.
 - Implementar o CRUD para dispositivos de forma funcional e eficiente.
-- Demonstrar compreensão dos fundamentos de autenticação e controle de acesso.
+- Implementar testes unitários com uma cobertura de testes acima de 75%, demonstrando a compreensão da importância dos testes na qualidade do código.
 - Fornecer código que seja legível, com comentários claros onde necessário.
 - Documentar quaisquer desafios encontrados e como foram resolvidos.
-- A entrega deve atender a todos os requisitos funcionais, com atenção especial para a correta implementação dos endpoints e da interface do usuário.
+- A entrega deve atender a todos os requisitos funcionais, com atenção especial para a correta implementação dos endpoints e da interface do usuário
 
 ### **Pleno**
 Candidatos de nível Pleno devem mostrar uma compreensão mais aprofundada do desenvolvimento Full Stack, incluindo a estruturação da aplicação para manutenção e escalabilidade futura. O candidato deve:
 
-- Projetar uma arquitetura que suporte a escalabilidade e a manutenibilidade da aplicação.
+- Projetar uma arquitetura que suporte a escalabilidade e a manutenibilidade da aplicação, considerando boas práticas de design e padrões arquiteturais.
 - Implementar um sistema de logs eficiente e detalhado, com capacidade de auditoria.
+- Implementar autenticação e autorização utilizando JWT, garantindo que as operações sensíveis sejam protegidas adequadamente.
 - Garantir que o código seja modular, reutilizável e devidamente testado (testes unitários e de integração são esperados).
 - Demonstrar uma abordagem proativa no tratamento de erros e na gestão de exceções.
 - Incluir explicações sobre as decisões arquiteturais tomadas e suas vantagens.
 - Fornecer documentação que cubra tanto o setup quanto a manutenção da aplicação.
+- Implementar melhores práticas de segurança, como a proteção contra SQL Injection, Cross-Site Scripting (XSS), e a utilização de HTTPS."
 
 ### **Sênior**
 Candidatos de nível Sênior devem demonstrar liderança técnica e a capacidade de pensar em uma aplicação robusta, segura e altamente escalável. O candidato deve:
