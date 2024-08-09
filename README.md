@@ -37,7 +37,7 @@ Desenvolver uma aplicação web Full Stack que permita:
   - `POST /alerts`: Configura alertas para os dispositivos.
 
 #### Frontend:
-- Desenvolver a interface do usuário usando **Vue 3**.
+- Desenvolver a interface do usuário usando qualquer framework de **sua preferência**.
 - Implementar uma dashboard que exiba a lista de dispositivos e permita a interação (CRUD) com os mesmos.
 - Mostrar os detalhes de um dispositivo em uma página separada.
 - Permitir que os operadores visualizem logs e configurem alertas diretamente pela interface.
