@@ -67,7 +67,7 @@ A avaliação do desafio será baseada nos seguintes critérios:
 ### **Júnior**
 Esperamos que os candidatos de nível Júnior demonstrem um entendimento básico dos conceitos de desenvolvimento web Full Stack. O foco principal deve ser na implementação das funcionalidades essenciais, seguindo as melhores práticas básicas de codificação. O candidato deve:
 
-- Implementar o CRUD para dispositivos IoT de forma funcional e eficiente.
+- Implementar o CRUD para dispositivos de forma funcional e eficiente.
 - Demonstrar compreensão dos fundamentos de autenticação e controle de acesso.
 - Fornecer código que seja legível, com comentários claros onde necessário.
 - Documentar quaisquer desafios encontrados e como foram resolvidos.
@@ -86,7 +86,7 @@ Candidatos de nível Pleno devem mostrar uma compreensão mais aprofundada do de
 ### **Sênior**
 Candidatos de nível Sênior devem demonstrar liderança técnica e a capacidade de pensar em uma aplicação robusta, segura e altamente escalável. O candidato deve:
 
-- Propor e implementar uma arquitetura avançada que suporte grandes volumes de dispositivos IoT e multi-tenancy, se aplicável.
+- Propor e implementar uma arquitetura avançada que suporte grandes volumes de dispositivos e multi-tenancy, se aplicável.
 - Garantir a segurança em todos os aspectos da aplicação, desde a autenticação até a proteção contra vulnerabilidades comuns.
 - Otimizar o desempenho da aplicação, tanto no backend quanto no frontend, utilizando técnicas avançadas.
 - Implementar práticas de monitoramento e manutenção que garantam a estabilidade e a disponibilidade da aplicação em ambiente de produção.
