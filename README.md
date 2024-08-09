@@ -1,14 +1,14 @@
-# Fullstack IoT Monitoring
+# Fullstack Monitoring
 
-## Desafio de Programação Full Stack: Monitoramento de Dispositivos IoT
+## Desafio de Programação Full Stack: Monitoramento de Dispositivos
 
 ### Introdução
-Sua tarefa é desenvolver uma aplicação web que monitora dispositivos IoT conectados à internet. A aplicação deverá permitir que os usuários visualizem o estado dos dispositivos, recebam alertas em caso de falhas, e gerenciem as configurações de monitoramento. Esta aplicação será usada por operadores que precisam manter o controle sobre o funcionamento de dispositivos críticos em tempo real.
+Sua tarefa é desenvolver uma aplicação web que monitora dispositivos conectados à internet. A aplicação deverá permitir que os usuários visualizem o estado dos dispositivos, recebam alertas em caso de falhas, e gerenciem as configurações de monitoramento. Esta aplicação será usada por operadores que precisam manter o controle sobre o funcionamento de dispositivos críticos em tempo real.
 
 ### Objetivo
 Desenvolver uma aplicação web Full Stack que permita:
 
-- **Visualizar o status dos dispositivos IoT:** Mostrar uma lista de dispositivos e seu status atual.
+- **Visualizar o status dos dispositivos:** Mostrar uma lista de dispositivos e seu status atual.
 - **Gerenciar dispositivos:** Adicionar, editar e remover dispositivos monitorados.
 - **Configurar alertas:** Configurar alertas que serão disparados quando um dispositivo não responder ou apresentar falhas.
 - **Visualizar logs:** Permitir a visualização dos logs de atividade de cada dispositivo.
